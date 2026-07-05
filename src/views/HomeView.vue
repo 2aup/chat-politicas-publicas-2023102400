@@ -165,7 +165,7 @@ main {
 }
 
 #chat {
-  width: 18%;
+  width: 20%;
   padding: 1rem;
   background-color: var(--color-chat-bg);
   display: flex;
@@ -283,7 +283,7 @@ iframe {
 }
 
 .message {
-  max-width: 70%;
+  max-width: 75%;
   padding: 0.7rem 1rem;
   border-radius: 16px;
   word-wrap: break-word;
